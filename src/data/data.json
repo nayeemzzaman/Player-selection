@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name":"Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "All-Rounder",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm orthodox",
+        "img": "https://i.ibb.co/Q6HcyjJ/shakib-Alhsan.png",
+        "salary": "350"
+    },
+    {
+        "id": 2,
+        "name":"Mushfiqur Rahim",
+        "country": "Bangladesh",
+        "role": "Wicket Keeper Batsman",
+        "batting": "Right Handed Bat",
+        "bowling": "No",
+        "img": "https://i.ibb.co/1KFxDyF/Mushi.png",
+        "salary": "300"
+    },
+    {
+        "id": 3,
+        "name":"Tamim Iqbal",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "batting": "Left Handed Bat",
+        "bowling": "no",
+        "img": "https://i.ibb.co/jLBHq7x/tamim.png",
+        "salary": "310"
+    },
+    {
+        "id": 4,
+        "name":"Masrafee Bin Mortaza",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm pace",
+        "img": "https://i.ibb.co/XLc9XXZ/mash.png",
+        "salary": "250"
+    },
+    {
+        "id": 5,
+        "name":"Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "batting": "Right Handed Bat",
+        "bowling": "no",
+        "img": "https://i.ibb.co/5cnRbzp/mahmudullah.png",
+        "salary": "280"
+    },
+    {
+        "id": 6,
+        "name":"Taskin Ahmed",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm pace",
+        "img": "https://i.ibb.co/pRT4Xdt/taskin.png",
+        "salary": "250"
+    },
+    {
+        "id": 7,
+        "name":"Mustafizur Rahman",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm pace",
+        "img": "https://i.ibb.co/DfqMJH9/mustafiz.png",
+        "salary": "300"
+    },
+    {
+        "id": 8,
+        "name":"Soumya Sarkar",
+        "country": "Bangladesh",
+        "role": "Batsman",
+        "batting": "Right Handed Bat",
+        "bowling": "Right-arm spinner",
+        "img": "https://i.ibb.co/k1pN6Wz/soumya.png",
+        "salary": "280"
+    },
+    {
+        "id": 9,
+        "name":"Mehedi Hasan",
+        "country": "Bangladesh",
+        "role": "All-Rounder",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm spinner",
+        "img": "https://i.ibb.co/2W2Zk2p/mehedi.png",
+        "salary": "280"
+    },
+    {
+        "id": 10,
+        "name":"Ruble Hossain",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm Pace",
+        "img": "https://i.ibb.co/wLZM4gF/rubel.png",
+        "salary": "250"
+    },
+    {
+        "id": 11,
+        "name":"Virat Kohli",
+        "country": "India",
+        "role": "Batsman",
+        "batting": "Right Handed Bat",
+        "bowling": "No",
+        "img": "https://i.ibb.co/vJQkKJD/virat.png",
+        "salary": "420"
+    },
+    {
+        "id": 12,
+        "name":"Shahid Afridi",
+        "country": "Pakistan",
+        "role": "All-Rounder",
+        "batting": "Right Handed Bat",
+        "bowling": "Right-arm Spinner",
+        "img": "https://i.ibb.co/4NcZjzG/afridi.png",
+        "salary": "400"
+    },
+    {
+        "id": 13,
+        "name":"Gayle",
+        "country": "West Indies",
+        "role": "Batsman",
+        "batting": "Left Handed Bat",
+        "bowling": "Left-arm spin",
+        "img": "https://i.ibb.co/rQwj92W/Gayle.png",
+        "salary": "400"
+    },
+    {
+        "id": 14,
+        "name":"AB De Villars",
+        "country": "South Africa",
+        "role": "Wicket Keeper Batsman",
+        "batting": "Left Handed Bat",
+        "bowling": "No",
+        "img": "https://i.ibb.co/fSJv6Gj/ab.png",
+        "salary": "450"
+    },
+    {
+        "id": 15,
+        "name":"Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "batting": "Right Handed Bat",
+        "bowling": "No",
+        "img": "https://i.ibb.co/PGnrLLr/williamson.png",
+        "salary": "400"
+    }
+]

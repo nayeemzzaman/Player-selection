@@ -1,0 +1,18 @@
+.container{
+    display:flex;
+    margin-top:50px;
+}
+.users{
+    position:relative;
+    left: 0px;
+    margin: 20px;
+    width: 70%;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+@media (max-width: 900px){
+    .users{
+        display:grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
