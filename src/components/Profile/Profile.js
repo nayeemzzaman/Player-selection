@@ -18,16 +18,16 @@ const Profile = (props) => {
                         <p><strong>Salary: ${salary}</strong></p>
                     </div>
                 </div>
-                <div>
-                    
-                    <p>Role: {role}</p>
-                    <p>Batting: {batting}</p>
-                    <p>Bowling: {bowling}</p>
+                <div className='profileInfo'>
+                    <p><strong>Role:</strong> {role}</p>
+                    <p><strong>Batting:</strong> {batting}</p>
+                    <p><strong>Bowling:</strong> {bowling}</p>
                     <button
                         style={{marginLeft:'150px'}}
                         className="button"
                         onClick={()=>props.handleAddFriend(props.playerInfo)}
-                    > <FontAwesomeIcon icon={faUserPlus}style={{marginRight:'5px'}}></FontAwesomeIcon> Add</button>
+                    > <FontAwesomeIcon icon={faUserPlus}style={{marginRight:'5px'}}></FontAwesomeIcon>
+                        Add Player</button>
                 </div>
                 <hr style={{width:'400px'}}/> <br/>
             </div>
